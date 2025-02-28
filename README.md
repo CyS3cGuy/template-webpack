@@ -1,3 +1,3 @@
 # odinproject-todo
 
-This is The Odin Project To-Do App
+This is the template for webpack for any The Odin Project projects.
